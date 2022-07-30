@@ -1,0 +1,2 @@
+# XuiBot
+DiscordのBot XuiBotのソースコード。
